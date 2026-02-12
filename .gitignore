@@ -14,3 +14,6 @@ Thumbs.db
 
 # ComfyUI temp/log
 *.log
+
+# Local run helper
+run_cmd.bat

@@ -53,3 +53,19 @@ Custom ComfyUI node for generating or improving prompts via DeepSeek API.
 2. Restart ComfyUI.
 3. Add `DeepSeek Prompt Connector` node to your workflow.
 
+## Example Workflow
+
+- JSON workflow: `examples/zimage_example.json`
+
+## Image Comparisons
+
+| Case | Before | After |
+|---|---|---|
+| Cat | ![cat before](examples/cat_1.jpeg) | ![cat after](examples/cat_2.jpeg) |
+| Landscape | ![landscape before](examples/landscape_1.jpeg) | ![landscape after](examples/landscape_2.jpeg) |
+| Warrior | ![warrior before](examples/warrior_1.jpeg) | ![warrior after](examples/warrior_2.jpeg) |
+| Woman | ![woman before](examples/woman_1.jpeg) | ![woman after](examples/woman_2.jpeg) |
+
+## GitHub
+
+Suggested repository: `https://github.com/KaigorodovTuskul/ComfyUI-DeepSeek-API-connector`
