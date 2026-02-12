@@ -53,6 +53,3 @@ Custom ComfyUI node for generating or improving prompts via DeepSeek API.
 2. Restart ComfyUI.
 3. Add `DeepSeek Prompt Connector` node to your workflow.
 
-## GitHub
-
-Suggested repository: `https://github.com/KaigorodovTuskul/ComfyUI-DeepSeek-API-connector`
